@@ -1,0 +1,2 @@
+PostgreSQL中的隔离级别
+psot在PostgreSQL中只实现了三种不同的隔离级别，即：PostgreSQL的读未提交模式的行为类似于读已提交。 这是因为这是把标准的隔离级别映射到PostgreSQL的多版本并发控制架构的唯一合理方法。

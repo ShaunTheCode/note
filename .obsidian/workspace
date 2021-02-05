@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "26898fec4ce74ecb",
+    "type": "split",
+    "children": [
+      {
+        "id": "12770899db97e344",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Kafka/Kafka设计理念/Kafka设计动机.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "990a3187a137ee5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3128db506705628",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eaeaf012f059ff9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2609bba53535cc23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbe5c8d2a5bbbe43",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd3811878e6691ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a164ebfbcb446324",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kafka/Kafka设计理念/Kafka设计动机.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Kafka/Kafka设计理念/Kafka设计动机.md",
+    "消费者模型.md",
+    "分区模型.md",
+    "Kafka/Kafka设计理念/Untitled.md",
+    "Untitled.md",
+    "Kafka/Untitled.md",
+    "基于锁定的事务管理协议.md",
+    "快照隔离协议（SI）.md",
+    "PostgreSQL中的事务隔离和MVCC（多版本事务控制）.md",
+    "数据隔离性的级别.md"
+  ]
+}
